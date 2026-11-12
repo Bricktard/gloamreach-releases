@@ -1,20 +1,20 @@
 {
-  "build": 2,
-  "version": "0.2.0",
+  "build": 3,
+  "version": "0.3.0",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "First public build: error logging (F8 / Log button), automatic updates at startup, Windows and Android builds with touch controls.",
+  "notes": "Sharper graphics: 1.5x pixel resolution, ink outlines, textured stone and earth with relief, smoother round shapes, softer shadows.",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b2-windows.pck",
-      "sha256": "938eef04fa5191fb21c41ba5cf8ba3e9e3a2aceddffca2840b88d561619ddf8a",
-      "size": 126368
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b3-windows.pck",
+      "sha256": "fa6efbdc269f8a7e6ce804dbdbb50be8268fa9f5fb15f5d5a37ffaeec39aea66",
+      "size": 130048
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b2-android.pck",
-      "sha256": "938eef04fa5191fb21c41ba5cf8ba3e9e3a2aceddffca2840b88d561619ddf8a",
-      "size": 126368
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b3-android.pck",
+      "sha256": "fa6efbdc269f8a7e6ce804dbdbb50be8268fa9f5fb15f5d5a37ffaeec39aea66",
+      "size": 130048
     }
   },
   "full": {
