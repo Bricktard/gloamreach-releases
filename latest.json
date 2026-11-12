@@ -1,0 +1,24 @@
+{
+  "build": 2,
+  "version": "0.2.0",
+  "engine": "4.7.2",
+  "min_launcher": 1,
+  "notes": "First public build: error logging (F8 / Log button), automatic updates at startup, Windows and Android builds with touch controls.",
+  "page": "https://github.com/Bricktard/gloamreach-releases",
+  "pck": {
+    "windows": {
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b2-windows.pck",
+      "sha256": "938eef04fa5191fb21c41ba5cf8ba3e9e3a2aceddffca2840b88d561619ddf8a",
+      "size": 126368
+    },
+    "android": {
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b2-android.pck",
+      "sha256": "938eef04fa5191fb21c41ba5cf8ba3e9e3a2aceddffca2840b88d561619ddf8a",
+      "size": 126368
+    }
+  },
+  "full": {
+    "windows": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/Gloamreach-windows.zip",
+    "android": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/Gloamreach.apk"
+  }
+}

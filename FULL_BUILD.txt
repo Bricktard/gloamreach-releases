@@ -1,0 +1,2 @@
+The Gloamreach-windows.zip and Gloamreach.apk in this repo are build 2.
+They update themselves to the newest build on first start.
