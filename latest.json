@@ -1,20 +1,20 @@
 {
-  "build": 4,
-  "version": "0.4.0",
+  "build": 5,
+  "version": "0.5.0",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "Character editor (Character on the title screen, I in game). Loot: enemies drop gear and a few items are hidden in the Reach, and gear changes your look and stats. New jointed character with much better combat animation: wind-ups, snapping strikes, follow-through, weapon trails, hit-stop, enemy flinches. Weapons: sword, spear, axe, mace.",
+  "notes": "World Editor (developer tool) on the title screen: build and change the world with mouse/keyboard or touch, playtest instantly, save, and export. The world is now a data file. Fixed: attack warning markings, weapon trails and loot beams were hidden by the outline effect.",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b4-windows.pck",
-      "sha256": "c4c45e5e966b17e41b1cca1f7eb1d1519fd4922bfd24c9a1c1865738ba783be8",
-      "size": 188448
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b5-windows.pck",
+      "sha256": "746d34b7f022b38983ae58d5c2f6540405d1c43c33164905a07f01e67496abba",
+      "size": 274620
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b4-android.pck",
-      "sha256": "c4c45e5e966b17e41b1cca1f7eb1d1519fd4922bfd24c9a1c1865738ba783be8",
-      "size": 188448
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b5-android.pck",
+      "sha256": "746d34b7f022b38983ae58d5c2f6540405d1c43c33164905a07f01e67496abba",
+      "size": 274620
     }
   },
   "full": {
