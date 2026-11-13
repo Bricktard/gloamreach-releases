@@ -1,20 +1,20 @@
 {
-  "build": 6,
-  "version": "0.6.0",
+  "build": 7,
+  "version": "0.6.1",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "Stats and XP, item rarities and bonuses, six biomes, Link to the Past look, item/enemy/NPC editors, NPCs",
+  "notes": "Performance: low-graphics mode on phones, fewer shadows, light fading, sleeping far enemies",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b6-windows.pck",
-      "sha256": "05062941cb6e07ba82a184c58177ef2ca957fc4991cfb4fdce8b47d818f30455",
-      "size": 437036
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b7-windows.pck",
+      "sha256": "2ba046feb33a2f91a99d414ab42c0197a7fd460c42020883c5bb586af1dc8e3c",
+      "size": 441244
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b6-android.pck",
-      "sha256": "05062941cb6e07ba82a184c58177ef2ca957fc4991cfb4fdce8b47d818f30455",
-      "size": 437036
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b7-android.pck",
+      "sha256": "2ba046feb33a2f91a99d414ab42c0197a7fd460c42020883c5bb586af1dc8e3c",
+      "size": 441244
     }
   },
   "full": {
