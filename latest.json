@@ -1,20 +1,20 @@
 {
-  "build": 7,
-  "version": "0.6.1",
+  "build": 8,
+  "version": "0.6.2",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "Performance: low-graphics mode on phones, fewer shadows, light fading, sleeping far enemies",
+  "notes": "Rounder, softer characters: smooth limbs, head, hair and armour, idle sway and cloak swing",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b7-windows.pck",
-      "sha256": "2ba046feb33a2f91a99d414ab42c0197a7fd460c42020883c5bb586af1dc8e3c",
-      "size": 441244
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b8-windows.pck",
+      "sha256": "76b7e39435f2d8195d369319576baf3c5df1d3905d9598deea88a3e62aded574",
+      "size": 442476
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b7-android.pck",
-      "sha256": "2ba046feb33a2f91a99d414ab42c0197a7fd460c42020883c5bb586af1dc8e3c",
-      "size": 441244
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b8-android.pck",
+      "sha256": "76b7e39435f2d8195d369319576baf3c5df1d3905d9598deea88a3e62aded574",
+      "size": 442476
     }
   },
   "full": {
