@@ -1,20 +1,20 @@
 {
-  "build": 8,
-  "version": "0.6.2",
+  "build": 9,
+  "version": "0.7.0",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "Rounder, softer characters: smooth limbs, head, hair and armour, idle sway and cloak swing",
+  "notes": "Pixel sprites for characters, tighter and more detailed view",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b8-windows.pck",
-      "sha256": "76b7e39435f2d8195d369319576baf3c5df1d3905d9598deea88a3e62aded574",
-      "size": 442476
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b9-windows.pck",
+      "sha256": "5b61dabdbba237bc975b3523e1c42a4742451ede98a126d4b3f0dbd2c6cbcee4",
+      "size": 450980
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b8-android.pck",
-      "sha256": "76b7e39435f2d8195d369319576baf3c5df1d3905d9598deea88a3e62aded574",
-      "size": 442476
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b9-android.pck",
+      "sha256": "5b61dabdbba237bc975b3523e1c42a4742451ede98a126d4b3f0dbd2c6cbcee4",
+      "size": 450980
     }
   },
   "full": {
