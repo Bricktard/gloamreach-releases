@@ -1,20 +1,20 @@
 {
-  "build": 9,
-  "version": "0.7.0",
+  "build": 10,
+  "version": "0.7.1",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "Pixel sprites for characters, tighter and more detailed view",
+  "notes": "Hand-made 8-direction player art while standing and walking",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b9-windows.pck",
-      "sha256": "5b61dabdbba237bc975b3523e1c42a4742451ede98a126d4b3f0dbd2c6cbcee4",
-      "size": 450980
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b10-windows.pck",
+      "sha256": "3339bc8aa41abde53c3db2cb519eddc64aaeee8307806a2b47b426fd0639d110",
+      "size": 485924
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b9-android.pck",
-      "sha256": "5b61dabdbba237bc975b3523e1c42a4742451ede98a126d4b3f0dbd2c6cbcee4",
-      "size": 450980
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b10-android.pck",
+      "sha256": "3339bc8aa41abde53c3db2cb519eddc64aaeee8307806a2b47b426fd0639d110",
+      "size": 485924
     }
   },
   "full": {
