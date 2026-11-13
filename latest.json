@@ -1,20 +1,20 @@
 {
-  "build": 5,
-  "version": "0.5.0",
+  "build": 6,
+  "version": "0.6.0",
   "engine": "4.7.2",
   "min_launcher": 1,
-  "notes": "World Editor (developer tool) on the title screen: build and change the world with mouse/keyboard or touch, playtest instantly, save, and export. The world is now a data file. Fixed: attack warning markings, weapon trails and loot beams were hidden by the outline effect.",
+  "notes": "Stats and XP, item rarities and bonuses, six biomes, Link to the Past look, item/enemy/NPC editors, NPCs",
   "page": "https://github.com/Bricktard/gloamreach-releases",
   "pck": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b5-windows.pck",
-      "sha256": "746d34b7f022b38983ae58d5c2f6540405d1c43c33164905a07f01e67496abba",
-      "size": 274620
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b6-windows.pck",
+      "sha256": "05062941cb6e07ba82a184c58177ef2ca957fc4991cfb4fdce8b47d818f30455",
+      "size": 437036
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b5-android.pck",
-      "sha256": "746d34b7f022b38983ae58d5c2f6540405d1c43c33164905a07f01e67496abba",
-      "size": 274620
+      "url": "https://raw.githubusercontent.com/Bricktard/gloamreach-releases/main/packs/gloamreach-b6-android.pck",
+      "sha256": "05062941cb6e07ba82a184c58177ef2ca957fc4991cfb4fdce8b47d818f30455",
+      "size": 437036
     }
   },
   "full": {
